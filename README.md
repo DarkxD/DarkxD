@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkxD
+- 👋 Hi, I’m Gergő Remete
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning for business informatics
 - 📫 How to reach me: remetegergo3@gmail.com
